@@ -3,14 +3,10 @@
 
 
 # My Skill's
-  - C/C++/C#
-  - html & css
-  - Python
-  - Node.js
   - Less
   - Pentest
   - Reverse Engineering
-  
+  <img align="center" alt="arch" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" />
   <img align="center" alt="arch" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img align="center" alt="kali" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img align="center" alt="manjaro" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
